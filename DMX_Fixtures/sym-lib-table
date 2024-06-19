@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DMX_Relay")(type "KiCad")(uri "${KIPRJMOD}/DMX_Relay.kicad_sym")(options "")(descr ""))
+)
